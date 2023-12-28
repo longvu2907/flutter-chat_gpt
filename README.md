@@ -1,24 +1,13 @@
-# chat_gpt
+# Assignment 2 - Chat AI
 
-A new Flutter project.
+## Demo
 
-## Getting Started
+https://drive.google.com/file/d/18s_qnT1E569xebZxX36D8FM4ANlFuM-U/view?usp=sharing
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-[
-{
-title: "abc",
-messageListId: "123",
-}
-
-]
+<div float="left" align="center">
+  <img src="assets/screenshots/Screenshot-1.png" alt="login page" width="250"/>
+  <img src="assets/screenshots/Screenshot-2.png" alt="login page" width="250"/>
+  <img src="assets/screenshots/Screenshot-3.png" alt="login page" width="250"/>
+<div/>
