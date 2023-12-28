@@ -25,7 +25,7 @@ Future<MessageModel> chat(MessageListModel messages) async {
     headers: {
       "Content-Type": "application/json",
       "Authorization":
-          "Bearer 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",
+          "Bearer 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",
     },
     body: body,
   );
